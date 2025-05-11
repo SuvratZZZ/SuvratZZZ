@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **express.js**
+- 🌱 I’m currently learning about **softwares**
 
-- 💬 Ask me about **Front End, Back End, Data Structures**
+- 💬 Ask me about **Fullstack, Software Devlopment, Devops, Data Structures and Algorithms**
 
 - 📫 How to reach me **singhsubrat35@gmail.com**
 
