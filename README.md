@@ -1,4 +1,4 @@
-[![MasterHead](https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Subrat Singh</h1>
 <h3 align="center">A versatile Full Stack Developer proficient in both front-end and back-end technologies, crafting seamless web applications with efficiency and innovation.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/swapnalshahil/swapnalshahil/master/gifs/coder.gif">
